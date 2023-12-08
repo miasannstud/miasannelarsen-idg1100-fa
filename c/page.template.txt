@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>c solution</title>
+</head>
+<body>
+    <style>
+        * {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        
+        body {
+            background-color:rgb(187, 228, 197);
+            margin: 0px;
+        }
+        
+        #top {
+            background-color:rgb(107, 167, 139);
+            padding: 20px;
+            color: rgb(14, 13, 13);
+        }
+
+        p {
+            margin: 20px;
+        }
+
+        table, th, td {
+            text-align: left;
+            border: 1px solid;
+        }
+    </style>
+    <div id="top">
+        <h1>Mia Sanne-Larsens fancy wiki list</h1>
+        <h2>Welcome to my super cool list of muncipalitites</h2>
+        <h3>proudly stolen from wikipedia</h3>
+    </div>
+    <p>Here you can find every municipal in Norway, their cordinates in decimals and their popluation.</p>
+    <!--CONTENT-->
+</body>
+</html>
